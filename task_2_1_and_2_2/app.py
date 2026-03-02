@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from models import Feedback
+from task_2_1_and_2_2.models import Feedback
 
 app = FastAPI()
 
